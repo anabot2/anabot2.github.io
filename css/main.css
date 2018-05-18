@@ -1,7 +1,7 @@
 body{
   margin:0 auto;
-  padding:0 10%;
-  width:75%;
+  padding:10% 25%;
+  max-width:75%;
   background-color: #ECDB54;
   font-size:1em;
   font-family:verdana;
