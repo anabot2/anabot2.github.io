@@ -1,10 +1,12 @@
 body{
-  margin:0 auto;
-  padding:10% 25%;
-  max-width:75%;
-  background-color: #ECDB54;
   font-size:1em;
   font-family:verdana;
   }
-  
+ 
+#main{
+  margin:0 auto;
+  padding:5% 15%;
+  max-width:75%;
+  background-color: #ECDB54;
+}
  
